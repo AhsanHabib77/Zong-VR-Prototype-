@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3595312579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ecbd35eef9d2d9e1fef5a69c98b28af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_TexturesMat/StylMagicRocks_NormalOpenGL.tga
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Textures/PointGlowBig_01.tga
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Textures/PointGlow_01.tga
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Sources/Textures/PT_Medieval_texture.tga
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_TexturesMat/StylMagicRocks_AmbientOcclusion.tga
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_TexturesMat/StylMagicRocks_AlbedoTransparency.tga
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Textures/Twinkle_01.tga
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_TexturesMat/StylMagicRocks_MetallicSmoothness.tga
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Textures/Trail_01.tga
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_TexturesMat/StylMagicRocks_Emissive.tga
+Dependencies: []

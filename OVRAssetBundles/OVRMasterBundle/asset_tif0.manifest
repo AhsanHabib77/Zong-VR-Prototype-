@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3939079561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7029a815a31ea50ad3bfce3fe011428a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ExampleAssets/Textures/Wood/OBS_Normal.tif
+- Assets/ExampleAssets/Textures/Wood/OBS_MetallicOcculusionSmoothness.tif
+- Assets/ExampleAssets/Textures/Wood/OBS_Albedo.tif
+Dependencies: []

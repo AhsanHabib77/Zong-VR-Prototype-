@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1304255281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 409a38c66c0b3a53170811ef17b21f25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn18.mat
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Materials/Buff_01a_PointGlow_01.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Fruit_Tree_Opaque_mat.mat
+- Assets/Custom UI/Materials/pngwing.com - 2022-12-22T131311.807.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn2.mat
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Materials/Buff_01a_PointGlowBig_01.mat
+- Assets/Custom Material/Trans Sphare.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn14.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Water_mat.mat
+- Assets/ExampleAssets/Materials/OBS_Mat.mat
+- Assets/Custom Asset/Pistol/Model/Grey 1.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Pine_Tree_Leaves_Mat.mat
+- Assets/Custom Material/Trans Sphare 1.mat
+- Assets/Custom Asset/Lowpoly_Crates/Materials/Wood_bright.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Poppy_mat.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn12.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Materials/Buff_01a_Twinkle_01.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Mushrooms_mat.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Generic_Tree_Trunk_mat.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn13.mat
+- Assets/Custom Asset/Travis Game Assets/Status Effects/Materials/Buff_01a_Trail_01.mat
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_TexturesMat/StylRocksMagic_Mat.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn16.mat
+- Assets/Custom Asset/LowlyPoly/Stylize Wood Texture/Materials/Stylize Wood  Diffuse.mat
+- Assets/Custom Asset/Pistol/Model/Grey 3.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/PT_Generic_Tree_Leaves_mat
+  2.mat
+- Assets/Custom Asset/Pistol/Model/Grey 2.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Pine_Tree_Trunk_Mat.mat
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_tif0

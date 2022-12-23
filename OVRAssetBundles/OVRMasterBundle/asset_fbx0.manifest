@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 1113007081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d3b3a9c6f057e7899a87164758a41e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b6a5336b7b596dac18b21b1eda7daab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Flowers/PT_Poppy_02.fbx
+- Assets/Custom Asset/StylRocksMagic/StylRocksMagic_3dModels/StylRocksMagic_Unity_LOD2.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Plants/PT_Grass_02.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Sources/Meshes/PT_Medieval_Village_Fence_02.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Rocks/PT_Ore_Rock_01.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Sources/Meshes/PT_Wooden_Bridge_02.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Rocks/PT_River_Rock_Pile_02.fbx
+- Assets/Custom Asset/Lowpoly Flowers/flower03.fbx
+- Assets/Custom Asset/Oculus Hands/Models/r_hand_skeletal_lowres.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_logs.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Mushrooms/PT_Caesars_Mushroom_01.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Rocks/PT_Ore_Rock_01_split.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_plums.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Rocks/PT_Menhir_Rock_02.fbx
+- Assets/Custom Asset/Lowpoly_Crates/Meshes/Crate_07.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Sources/Meshes/PT_Medieval_Village_Gate_01.fbx
+- Assets/Custom Asset/Oculus Hands/Animations/r_hand_pinch_anim.fbx
+- Assets/Custom Asset/Lowpoly Flowers/flower06.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_dead.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Rocks/PT_Generic_Rock_01.fbx
+- Assets/Custom Asset/Oculus Hands/Animations/l_hand_default_anim.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_green.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Pine_Tree_03_dead.fbx
+- Assets/Custom Asset/Oculus Hands/Animations/r_hand_default_anim.fbx
+- Assets/Custom Asset/Oculus Hands/Animations/l_hand_fist_anim.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Sources/Meshes/PT_Medieval_Village_Fence_03.fbx
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Pine_Tree_03_stump.fbx
+- Assets/Custom Asset/Lowpoly Flowers/flower04.fbx
+- Assets/Custom Asset/Lowpoly Flowers/flower05.fbx
+- Assets/Custom Asset/Oculus Hands/Models/l_hand_skeletal_lowres.fbx
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_shader0

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1466075116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 983927955ffc60c12744ee7f4260a386
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f957402f1c6c48bbde14bcee38e591e0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom UI/blue bg.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Generic_Leaves_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Mushrooms_01.png
+- Assets/Custom UI/skull.png
+- Assets/Custom UI/map.png
+- Assets/Custom Asset/LowlyPoly/Stylize Wood Texture/Textures/vol_2_3_Base_Color.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Ground_Grass_Green_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Grass_01.png
+- Assets/Custom UI/stones.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Fruit_Tree_Leaves_01.png
+- Assets/Custom UI/energy sphere.png
+- Assets/Custom UI/bg purple.png
+- Assets/Custom UI/pngwing.com - 2022-12-22T131311.807.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Runes_02.png
+- Assets/Custom UI/sword.png
+- Assets/Custom UI/crystal.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Rocks_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Tree_Trunk_01.png
+- Assets/Custom UI/Rectangle 1 copy.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Pine_Tree_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Fruit_Tree_Flowers_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Water_NM_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Ground_Generic_03.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Skybox_Texture_01.png
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Poppy_01.png
+Dependencies: []

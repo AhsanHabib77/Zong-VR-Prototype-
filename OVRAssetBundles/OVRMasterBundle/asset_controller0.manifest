@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 560561529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90ee22b5b1bfecbbaa5bacedc456b764
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Animation/Box Text/Canvas.controller
+- Assets/Custom Asset/Oculus Hands/Animations/Right Hand Animator.controller
+- Assets/Custom Asset/Oculus Hands/Animations/Left Hand Animator.controller
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_fbx1

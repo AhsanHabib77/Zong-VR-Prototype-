@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4009436935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d78cc297f8e580c873bf71fe053fabf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Sound/Stone.mp3
+- Assets/Custom Sound/bubble.mp3
+- Assets/Custom Sound/Nature Sound.mp3
+Dependencies: []

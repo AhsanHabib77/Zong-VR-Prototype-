@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1068910293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7558a2ab4a0d957f1b75df38d6a2b97e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 41f5e68da31a4f6b36e45572326352d3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Rocks_mat.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Fruit_Tree_Foliage_Mat.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Sources/Materials/PT_Medieval_mat.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn1.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Generic_Tree_Leaves_mat.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Skybox_mat.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Grass_Mat.mat
+- Assets/Custom Asset/Lowpoly_Crates/Materials/Wood_dark.mat
+- Assets/Custom Asset/Lowpoly Flowers/Materials/blinn15.mat
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/PT_Generic_Tree_Leaves_mat
+  1.mat
+- Assets/Custom Asset/Oculus Hands/Materials/Hands_solid.mat
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_tga0

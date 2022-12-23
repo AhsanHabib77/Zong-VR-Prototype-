@@ -1,0 +1,136 @@
+ManifestFileVersion: 0
+CRC: 2226271396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 377316553410d22b9bee84e3ed18f584
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3283bf499f6c66053a22f93487606ffe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 400a5f126c6a64a4db36f50692865329, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1b6ba2faf79b1447a62a786b0de7cfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f6caaf5fef5d304eadc35caba4470d9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.ActivateEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.DeactivateEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.HoverEnterEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.HoverExitEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.InteractionLayerMask
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.SelectEnterEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.SelectExitEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.XRInteractableEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Fruit_Tree_01_apples.prefab
+- Assets/Custom Prefabs/Bullet/Bullet (1).prefab
+- Assets/Custom Prefabs/Bullet/Bullet (5).prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Shrubs/PT_Generic_Shrub_01_green.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Fruit_Tree_01_green.prefab
+- Assets/Custom Prefabs/Crate .prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Fruit_Tree_01_logs.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Rocks/PT_River_Rock_Pile_02.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Pine_Tree_03_green.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Plants/PT_Grass_02.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Village/Prefabs/PT_Wooden_Bridge_02.prefab
+- Assets/Custom Asset/Oculus Hands/Prefabs/Right Hand Model.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Fruit_Tree_01_plums.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Rocks/PT_Ore_Rock_01.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Rocks/PT_Ore_Rock_01_split.prefab
+- Assets/Custom Prefabs/Foot.prefab
+- Assets/Custom Prefabs/Bullet/Bullet (2).prefab
+- Assets/Custom Asset/Oculus Hands/Prefabs/Left Hand Model.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Fruit_Tree_01_pears.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Rocks/PT_Menhir_Rock_02.prefab
+- Assets/Custom Prefabs/Ball.prefab
+- Assets/Custom Prefabs/Bullet/Bullet.prefab
+- Assets/Custom Prefabs/Ahsan pistol.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Pine_Tree_03_stump.prefab
+- Assets/Custom Prefabs/Bullet/Bullet (3).prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Flowers/PT_Poppy_02.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Fruit_Tree_01_dead.prefab
+- Assets/Custom Prefabs/Bullet/Bullet (4).prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Trees/PT_Pine_Tree_03_dead.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Rocks/PT_Generic_Rock_01.prefab
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mp30
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_obj0

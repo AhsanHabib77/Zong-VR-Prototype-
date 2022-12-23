@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2050853095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22297a6b4f9b6872d84dc2ad42d9f515
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f48533bc02f0293ba95a50619ceac1b7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/FENCE.prefab
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Prefabs/Shrubs/PT_Generic_Shrub_01_dead.prefab
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_mat1

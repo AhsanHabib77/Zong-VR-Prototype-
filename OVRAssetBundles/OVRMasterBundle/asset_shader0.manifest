@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3723354403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f44ff9dee82e9117066d5297f5f2fea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrassBillboard.shader
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Shaders/PT_Rock_Shader.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainDetailLit.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Shaders/PT_Vegetation_Opaque_Shader.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Shaders/PT_Vegetation_Flowers_Shader.shader
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Shaders/PT_Water_Shader.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLit.shader
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Shaders/PT_Vegetation_Foliage_Shader.shader
+- Assets/Custom Asset/Polytope Studio/Lowpoly Medieval Environments/Sources/Shaders/PT_Vegetation_Plants_Shader.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrass.shader
+Dependencies:
+- E:/Unity 2021/Zong VR/OVRAssetBundles/OVRMasterBundle/asset_png0
